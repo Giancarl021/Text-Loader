@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    max-width: 90%;
+    font-family: 'Consolas', monospace;
+    color: #fff;
+    word-wrap: break-word;
+    font-size: 6em;
+    font-weight: bold;
+    outline: none;
+    text-align: center;
+}
+
+::selection {
+    color: #fff;
+    background-color: #fff4;
+}
