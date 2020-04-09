@@ -23,6 +23,12 @@ span {
     text-align: center;
 }
 
+mark {
+    font-size: 1.2em;
+    color: #f00;
+    background-color: transparent;
+}
+
 ::selection {
     color: #fff;
     background-color: #fff4;

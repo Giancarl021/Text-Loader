@@ -1,6 +1,6 @@
 function init() {
     const span = document.querySelector('span');
-    span.innerText = text;
+    span.innerHTML = html;
     span.setAttribute('contenteditable', isEditable);
 }
 
