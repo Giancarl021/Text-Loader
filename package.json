@@ -3,6 +3,7 @@
   "scripts": {
     "start": "node index.js"
   },
+  "bin": "index.js",
   "dependencies": {
     "yargs": "^15.3.1"
   }
