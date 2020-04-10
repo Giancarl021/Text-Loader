@@ -1,9 +1,14 @@
 {
+  "name": "text-loader",
+  "version": "1.0.0",
   "license": "MIT",
+  "author": "Giancarl021",
   "scripts": {
     "start": "node index.js"
   },
-  "bin": "index.js",
+  "bin": {
+    "text-loader": "index.js"
+  },
   "dependencies": {
     "yargs": "^15.3.1"
   }
