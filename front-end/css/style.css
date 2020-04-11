@@ -28,6 +28,11 @@ mark {
     background-color: transparent;
 }
 
+mark > mark {
+    color: #000;
+    background-color: #f00;
+}
+
 ::selection {
     color: #fff;
     background-color: #fff4;
