@@ -1,5 +1,5 @@
 {
-  "name": "text-loader",
+  "name": "@giancarl021/text-loader",
   "description": "A simple CLI-Interface that allows you to pop-up a Browser window with the text you wrote",
   "version": "1.0.0",
   "license": "MIT",
