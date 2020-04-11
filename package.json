@@ -1,8 +1,10 @@
 {
   "name": "text-loader",
+  "description": "A simple CLI-Interface that allows you to pop-up a Browser window with the text you wrote",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Giancarl021",
+  "author": "giancarl021",
+  "repository": "https://github.com/Giancarl021/Text-Loader",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,6 +12,7 @@
     "text-loader": "index.js"
   },
   "dependencies": {
+    "opn": "^6.0.0",
     "yargs": "^15.3.1"
   }
 }

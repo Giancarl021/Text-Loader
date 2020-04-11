@@ -1,2 +1,2 @@
-const html = 'Example of <mark>Highlight</mark> and a <mark><mark>double highlight</mark></mark>';
+const html = 'Double <mark><mark>Highlight</mark></mark>';
 const isEditable = true;
