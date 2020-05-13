@@ -36,6 +36,7 @@ This will pop-up a window on your browser with the text below:
 ### Flags
 
 ``-t|--text`` The text that will be loaded in the page. Default went to ``No text defined``
+
 ``-e|--editable`` If the text will be editable on the web page
 
 ### Customize Web Page
